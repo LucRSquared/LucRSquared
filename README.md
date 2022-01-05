@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Luc Rébillout, I just finished my PhD in Computational Hydroscience
 - 👀 I’m interested in data science, science in general or anything that will trigger my curiosity
 - 🌱 I’m currently learning more about Python and enjoying myself in the process!
-- 📫 You can reach me @LucRSquared or at my email ⓡⓔⓑⓘⓛⓛⓞⓤⓣ.ⓛⓤⓒ@ⓖⓜⓐⓘⓛ.ⓒⓞⓜ
+- 📫 You can reach me @LucRSquared, at my email ⓡⓔⓑⓘⓛⓛⓞⓤⓣ.ⓛⓤⓒ@ⓖⓜⓐⓘⓛ.ⓒⓞⓜ, or on LinkedIn: https://www.linkedin.com/in/luc-rebillout/
 
 Enjoy your day, make good choices :)
 
